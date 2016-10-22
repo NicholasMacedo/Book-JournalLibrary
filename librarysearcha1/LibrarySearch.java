@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 /**
- * @author Nicholas Macedo - Van Horne
+ * @author Nicholas Macedo
  */
 public class LibrarySearch {
     private ArrayList<Reference> libraryItemList;
