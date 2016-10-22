@@ -1,9 +1,8 @@
 
-		=-=-=-=-=-=-=-=-= READ ME =-=-=-=-=-=-=-=-=
-
-*************               *************************************
- The Problem                Nicholas Macedo - Van Horne (0889469)
-*************               *************************************
+/*************************README.txt****************************************
+Student Name: Nicholas Macedo                  Student Number: 
+Date: September 16th 2016                      Course Name: CIS 2430
+****************************************************************************/
 
 	The program's task is to implement a GUI using Java Swing for the Library Search program. The library search program has the ability to add,store and search for the given books and journals from the user using the GUI. Books and journals have their own respective properties but each share three similar properties. They both have a title, year of publication and a call number. When creating a book or journal, the user selects the "ADD" option in the "Commands" drop down menu. Once this is done the user is brought to the add book screen. From here, the user can choose to enter a book or enter a journal. To add the information, the user simply inputs the values into the given fields and presses the "Add" button. When adding a book, the title,year and call number are a must with adding an author and publisher is optional. When adding a journal, the title, year, callnumber and title are a must and adding an organization is optional. Onc the information is entered into the fields, the user presses the add button and the program will check to see if the item already exists (matching year and call number). If the item isnt in the library, the item is added and the user is informed. If it is in the library, the user is informed that the item is already in the library.
 
