@@ -7,7 +7,7 @@ package librarysearcha1;
 
 
 /**
- * @author Nicholas Macedo - Van Horne
+ * @author Nicholas Macedo
  */
 public class Journal extends Reference {
     private String organization;
