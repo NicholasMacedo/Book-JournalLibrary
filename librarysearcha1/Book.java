@@ -8,7 +8,7 @@ package librarysearcha1;
 import java.util.ArrayList;
 
 /**
- * @author Nicholas Macedo - Van Horne
+ * @author Nicholas Macedo
  */
 public class Book extends Reference {
     private ArrayList<String> bookAuthors;
